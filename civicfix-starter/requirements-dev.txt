@@ -1,0 +1,3 @@
+-r requirements.txt
+# Optional local tests: install dependencies first, then run pytest.
+pytest>=8.0,<9.0
